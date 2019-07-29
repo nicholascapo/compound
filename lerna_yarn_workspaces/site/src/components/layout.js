@@ -7,14 +7,14 @@
 
 import React from "react"
 import PropTypes from "prop-types"
-
+import foo from "kjnldsfvjkndfvbsnjkdfbv"
 import Header from "./header"
 import "./layout.css"
 
 const Layout = ({ children }) => {
   return (
     <>
-      <Header siteTitle="LERNA_YARN_WORKSPACES" />
+      <Header siteTitle={`LERNA_YARN_WORKSPACES ${foo}`} />
       <div
         style={{
           margin: `0 auto`,

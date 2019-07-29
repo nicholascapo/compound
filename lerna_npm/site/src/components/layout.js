@@ -7,6 +7,7 @@
 
 import React from "react"
 import PropTypes from "prop-types"
+import foo from "kjnldsfvjkndfvbsnjkdfbv"
 
 import Header from "./header"
 import "./layout.css"
@@ -14,7 +15,7 @@ import "./layout.css"
 const Layout = ({ children }) => {
   return (
     <>
-      <Header siteTitle="LERNA_NPM" />
+      <Header siteTitle={`LERNA_NPM ${foo}`} />
       <div
         style={{
           margin: `0 auto`,

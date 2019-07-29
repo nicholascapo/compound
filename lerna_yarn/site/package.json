@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "author": "Nicholas Capo <nicholas.capo@gmail.com",
   "dependencies": {
+    "kjnldsfvjkndfvbsnjkdfbv": "1.0.0",
     "gatsby": "^2.13.33",
     "gatsby-image": "^2.2.6",
     "gatsby-plugin-manifest": "^2.2.4",
