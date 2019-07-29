@@ -7,3 +7,5 @@ for dir in lerna_npm lerna_yarn lerna_yarn_workspaces yarn_workspaces; do
   cp -R ./site ./${dir}/
   sed -i "s/COMPOUND/${dir^^}/" ${dir}/site/src/components/layout.js
 done
+
+npm -C lerna_npm/site install
