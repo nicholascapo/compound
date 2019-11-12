@@ -6,26 +6,26 @@
   "author": "Nicholas Capo <nicholas.capo@gmail.com",
   "dependencies": {
     "kjnldsfvjkndfvbsnjkdfbv": "1.0.0",
-    "gatsby": "^2.13.33",
-    "gatsby-image": "^2.2.6",
-    "gatsby-plugin-manifest": "^2.2.4",
-    "gatsby-plugin-offline": "^2.2.4",
-    "gatsby-plugin-react-helmet": "^3.1.2",
-    "gatsby-plugin-sharp": "^2.2.9",
-    "gatsby-source-filesystem": "^2.1.6",
-    "gatsby-transformer-sharp": "^2.2.4",
+    "gatsby": "^2.17.11",
+    "gatsby-image": "^2.2.31",
+    "gatsby-plugin-manifest": "^2.2.27",
+    "gatsby-plugin-offline": "^2.2.10",
+    "gatsby-plugin-react-helmet": "^3.1.14",
+    "gatsby-plugin-sharp": "^2.2.37",
+    "gatsby-source-filesystem": "^2.1.36",
+    "gatsby-transformer-sharp": "^2.3.3",
     "prop-types": "^15.7.2",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
     "react-helmet": "^5.2.1"
   },
   "devDependencies": {
-    "@types/prettier": "^1.18.0",
-    "@types/prop-types": "^15.7.1",
-    "@types/react": "^16.8.23",
-    "@types/react-dom": "^16.8.4",
-    "@types/react-helmet": "^5.0.8",
-    "prettier": "^1.18.2"
+    "@types/prettier": "^1.18.3",
+    "@types/prop-types": "^15.7.3",
+    "@types/react": "^16.9.11",
+    "@types/react-dom": "^16.9.4",
+    "@types/react-helmet": "^5.0.14",
+    "prettier": "^1.19.1"
   },
   "keywords": [
     "gatsby"

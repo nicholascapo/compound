@@ -5,7 +5,6 @@
   "version": "0.1.0",
   "author": "Nicholas Capo <nicholas.capo@gmail.com",
   "dependencies": {
-    "kjnldsfvjkndfvbsnjkdfbv": "1.0.0",
     "gatsby": "^2.13.33",
     "gatsby-image": "^2.2.6",
     "gatsby-plugin-manifest": "^2.2.4",
@@ -14,6 +13,7 @@
     "gatsby-plugin-sharp": "^2.2.9",
     "gatsby-source-filesystem": "^2.1.6",
     "gatsby-transformer-sharp": "^2.2.4",
+    "kjnldsfvjkndfvbsnjkdfbv": "1.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -25,6 +25,7 @@
     "@types/react": "^16.8.23",
     "@types/react-dom": "^16.8.4",
     "@types/react-helmet": "^5.0.8",
+    "lerna": "^3.16.4",
     "prettier": "^1.18.2"
   },
   "keywords": [
