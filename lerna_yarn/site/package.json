@@ -49,5 +49,8 @@
     "node": "*",
     "npm": "^6",
     "yarn": "^1"
+  },
+  "resolutions": {
+    "serialize-javascript": ">=2.1.1"
   }
 }
